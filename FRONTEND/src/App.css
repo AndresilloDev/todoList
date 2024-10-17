@@ -1,0 +1,53 @@
+body {
+  background-color: #000000; /* Fondo negro */
+  color: #FFFFFF; /* Texto blanco */
+  font-family: 'Courier New', Courier, monospace; /* Fuente estilo consola */
+}
+
+h1, h2, h3 {
+  color: #FFFFFF; /* Texto blanco */
+}
+
+input {
+  background-color: #1a1a1a; /* Fondo oscuro para inputs */
+  color: #FFFFFF; /* Texto blanco en inputs */
+  border: 1px solid #444444; /* Borde gris oscuro */
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+input::placeholder {
+  color: #888888; /* Color del texto del placeholder */
+}
+
+button {
+  background-color: #000000; /* Fondo negro para botones */
+  color: #FFFFFF; /* Texto blanco */
+  border: 1px solid #444444; /* Borde gris oscuro */
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Courier New', Courier, monospace; /* Fuente estilo consola */
+}
+
+button:hover {
+  background-color: #333333; /* Color más claro al pasar el mouse */
+}
+
+.task {
+  border: 1px solid #444444; /* Borde gris oscuro para tareas */
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #1a1a1a; /* Fondo oscuro para tareas */
+}
+
+.task h3 {
+  margin: 0; /* Sin margen para el título de la tarea */
+}
+
+.task p {
+  margin: 5px 0; /* Margen para los párrafos */
+}
