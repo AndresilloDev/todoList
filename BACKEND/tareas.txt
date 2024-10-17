@@ -1,0 +1,24 @@
+Nombre: Pasear
+Descripción: Sacar a pasear al perro por el parque
+Fecha: 2024-10-10
+Estado: Pendiente
+
+
+Nombre: Comprar coca
+Descripción: Ir a a la tienda a comprar una coca de 8Litros
+Fecha: 2024-10-09
+Estado: Hecho
+
+
+Nombre: Caminar
+Descripción: Salir a caminar con los pies
+Fecha: 2024-10-11
+Estado: Pendiente
+
+
+Nombre: Festejar navidad
+Descripción: Festejar la navidad con la mera family
+Fecha: 2024-11-08
+Estado: Pendiente
+
+
